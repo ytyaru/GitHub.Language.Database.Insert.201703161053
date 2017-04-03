@@ -19,8 +19,7 @@ python3 Main.py
 
 # 結果
 
-* `GitHub.Languages.sqlite3`ファイルが作成される
-* Check.sqlに記載されたSQL実行結果がターミナルに表示される
+* `GitHub.Languages.sqlite3`ファイルにymlファイルの内容が挿入される
 
 # ライセンス #
 
